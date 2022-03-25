@@ -1,0 +1,15 @@
+	Model Metrics
+	Model: LightGBM 
+	Hyperparameters: {'class_weight': 'balanced',
+ 'learning_rate': 0.01,
+ 'max_depth': 2,
+ 'n_estimators': 200,
+ 'num_leaves': 10,
+ 'reg_alpha': 0,
+ 'reg_lambda': 0}
+ 
+ Using a cutoff of calling something positive with a predicted probability of 0.6 or higher on test data:
+ Precision: 0.997857
+ Recall: 0.663947
+ F1 Score: 0.797355
+ Accuracy: 0.976628
